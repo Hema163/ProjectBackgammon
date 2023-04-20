@@ -1,0 +1,5 @@
+name a b
+dice 4 3
+hint
+dice 1 1
+pip
